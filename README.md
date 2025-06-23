@@ -28,7 +28,3 @@ Este projeto é uma página web responsiva criada com HTML5 e Bootstrap 5.3.7. E
 - Criar mensagens de feedback (ex: "Login inválido")
 - Adicionar um botão de "Mostrar senha"
 
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
